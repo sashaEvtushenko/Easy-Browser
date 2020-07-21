@@ -13,6 +13,7 @@
 		03D57B6D24BDF81700ED7C92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03D57B6B24BDF81700ED7C92 /* Main.storyboard */; };
 		03D57B6F24BDF81900ED7C92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03D57B6E24BDF81900ED7C92 /* Assets.xcassets */; };
 		03D57B7224BDF81900ED7C92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03D57B7024BDF81900ED7C92 /* LaunchScreen.storyboard */; };
+		03D57B7A24C4D70400ED7C92 /* WebsitesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03D57B7924C4D70400ED7C92 /* WebsitesTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		03D57B6E24BDF81900ED7C92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03D57B7124BDF81900ED7C92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03D57B7324BDF81900ED7C92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03D57B7924C4D70400ED7C92 /* WebsitesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsitesTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				03D57B6524BDF81700ED7C92 /* AppDelegate.swift */,
 				03D57B6724BDF81700ED7C92 /* SceneDelegate.swift */,
+				03D57B7924C4D70400ED7C92 /* WebsitesTableViewController.swift */,
 				03D57B6924BDF81700ED7C92 /* ViewController.swift */,
 				03D57B6B24BDF81700ED7C92 /* Main.storyboard */,
 				03D57B6E24BDF81900ED7C92 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				03D57B6A24BDF81700ED7C92 /* ViewController.swift in Sources */,
 				03D57B6624BDF81700ED7C92 /* AppDelegate.swift in Sources */,
 				03D57B6824BDF81700ED7C92 /* SceneDelegate.swift in Sources */,
+				03D57B7A24C4D70400ED7C92 /* WebsitesTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
